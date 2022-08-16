@@ -1,0 +1,2 @@
+digraph G {
+E1->F1;F1->W1;W1->V1;V1->U1;U1->T1;T1->K1;K1->id1_a;T1->Tp1;Tp1->eps1;U1->Up1;Up1->eps2;V1->Vp1;Vp1->eps3;W1->Wp1;Wp1->eps4;F1->Fp1;Fp1->eps5;E1->Ep1;Ep1->or1;Ep1->F2;F2->W2;W2->V2;V2->U2;U2->T2;T2->K2;K2->id2_b;T2->Tp2;Tp2->eps6;U2->Up2;Up2->eps7;V2->Vp2;Vp2->eps8;W2->Wp2;Wp2->eps9;F2->Fp2;Fp2->eps10;Ep1->Ep2;Ep2->eps11;id1_a[color=green];eps1[color=red];eps2[color=red];eps3[color=red];eps4[color=red];eps5[color=red];or1[color=green];id2_b[color=green];eps6[color=red];eps7[color=red];eps8[color=red];eps9[color=red];eps10[color=red];eps11[color=red];}
