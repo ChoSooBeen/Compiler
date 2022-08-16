@@ -3,7 +3,7 @@
 
 1. 어휘분석기 구현하기
 
-https://github.com/ChoSooBeen/Compiler/tree/main/LexicalAnalyzer
+https://github.com/ChoSooBeen/Compiler/blob/main/LexicalAnalyzer/src/knu/compiler/Main.java
 
 2. LL Parser 구현하기
 
