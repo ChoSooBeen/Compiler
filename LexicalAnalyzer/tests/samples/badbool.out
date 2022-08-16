@@ -1,0 +1,4 @@
+TRUE           line 1 cols 1-4 is T_Identifier (token address: 1)
+FALSE          line 3 cols 1-5 is T_Identifier (token address: 2)
+True           line 5 cols 1-4 is T_Identifier (token address: 3)
+False          line 7 cols 1-5 is T_Identifier (token address: 4)
